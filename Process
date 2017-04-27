@@ -1,0 +1,10 @@
+#!/bin/bash
+cd Desktop/Github/IPD_PF
+./split PF.svg -k wood
+./split PF.svg -k plastic
+./split PF.svg -k art
+./split PF.svg -k metal
+./split PF.svg -k assembly
+
+
+
