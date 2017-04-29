@@ -1,10 +1,18 @@
 #!/bin/bash
 cd Desktop/Github/IPD_PF
-./split PF.svg -k wood
+./split PF.svg -k drill
+./split PF.svg -a -k route -k top
+./split PF.svg -a -k route -k bottom
+./split PF.svg -k route
 ./split PF.svg -k plastic
 ./split PF.svg -k art
 ./split PF.svg -k metal
+./split PF.svg -k sticker
 ./split PF.svg -k assembly
+./split PF.svg -k top
+./split PF.svg -k bottom
+./split PF.svg -k todo
+
 
 
 
