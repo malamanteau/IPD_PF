@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="4544px" height="4993px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.613;"/>
+<svg width="4544px" height="4993px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.613;">
+    <g id="Playfield-Outline-.--Top-Bottom-Sticker-Drill-Rout-Plastic-Bevel-Art-Assembly-Rubber-Todo">
+        <path d="M250.028,347.831L2193.89,347.831L2193.89,4380.1L2133.9,4380.1L2133.9,4278.1L2133.89,4278.1C2133.89,4271.49 2128.51,4266.11 2121.89,4266.11L2091.95,4266.11L2092.01,4091.14L2092,4091.14C2092,4086.18 2087.96,4082.14 2083.01,4082.14C2078.05,4082.14 2074.01,4086.18 2074.01,4091.14L2074.01,4091.14L2074.06,4266.11L2013.9,4266.11C2007.29,4266.11 2001.91,4271.49 2001.91,4278.1L2001.91,4669.25L1329.95,4669.25L1105.57,4401.84L1105.56,4401.8C1101.06,4396.46 1094.21,4393.27 1087.18,4393.27L771.991,4393.27C758.778,4393.27 747.992,4404.05 747.992,4417.26L747.992,4669.25L551.237,4669.25L375.011,4516.87L375.011,4418.81C375.011,4405.6 364.232,4394.82 351.012,4394.82L250.028,4394.82L250.028,347.831Z" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;"/>
+    </g>
+    <g id="Playfield-Guides-.--Top-Bottom-Sticker-Drill-Rout-Plastic-Bevel-Art-Assembly-Rubber-Todo">
+        <path d="M433.899,4669.25L225.12,4669.25" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;"/>
+        <path d="M2210.9,4669.25L2099.49,4669.25" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;"/>
+        <path d="M2194.03,4687.12L2194.03,4633.23" style="fill:none;stroke:black;stroke-width:0.74px;stroke-miterlimit:10;"/>
+        <path d="M250.14,4692.72L250.14,4627.94" style="fill:none;stroke:black;stroke-width:0.74px;stroke-miterlimit:10;"/>
+    </g>
+    <g id="R-Ball-Guide">
+        <path id="Plastic" d="M1921.66,3594.06L1540.01,3862.72C1538.54,3863.76 1537.93,3865.54 1538.33,3867.32C1538.72,3869.08 1540.36,3870.47 1542.13,3870.77C1556.35,3873.23 1569.01,3881.36 1577.31,3893.32C1585.6,3905.3 1588.82,3920.01 1586.29,3934.42C1585.97,3936.22 1586.76,3938.03 1588.31,3939.02C1589.84,3939.99 1591.83,3939.95 1593.32,3938.9L1995.65,3656.2C1996.3,3655.7 1997.24,3655.24 1997.29,3653.74L1997.29,3474.68C1997.29,3470.83 1994.17,3467.71 1990.33,3467.71C1986.48,3467.71 1983.36,3470.83 1983.36,3474.68C1983.36,3522.2 1960.35,3566.74 1921.66,3594.06L1921.66,3594.06Z" style="fill:white;fill-opacity:0.615686;stroke:black;stroke-width:0.74px;stroke-miterlimit:10;"/>
+    </g>
+    <g id="L-Ball-Guide">
+        <path id="Plastic1" d="M495.411,3594.06L877.067,3862.72C878.535,3863.76 879.141,3865.54 878.741,3867.32C878.349,3869.08 876.711,3870.47 874.945,3870.77C860.724,3873.23 848.065,3881.36 839.766,3893.32C831.475,3905.3 828.249,3920.01 830.778,3934.42C831.105,3936.22 830.31,3938.03 828.766,3939.02C827.229,3939.99 825.247,3939.95 823.754,3938.9L421.418,3656.2C420.77,3655.7 419.829,3655.24 419.779,3653.74L419.782,3474.68C419.782,3470.83 422.9,3467.71 426.746,3467.71C430.592,3467.71 433.711,3470.83 433.711,3474.68C433.711,3522.2 456.728,3566.74 495.411,3594.06L495.411,3594.06Z" style="fill:white;fill-opacity:0.615686;stroke:black;stroke-width:0.74px;stroke-miterlimit:10;"/>
+    </g>
+</svg>
