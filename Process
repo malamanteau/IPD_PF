@@ -15,7 +15,7 @@ cd Desktop/Github/IPD_PF
 ./split PF.svg -k bottom
 ./split PF.svg -k rubber
 ./split PF.svg -k todo
-
+./split PF.svg -k woodwalls
 
 
 
