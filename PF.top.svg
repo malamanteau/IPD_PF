@@ -233,9 +233,9 @@
         </g>
         <g id="Scoop">
             <g id="Assembly-Top">
-                <path d="M2529.68,2825.41C2531.2,2823.54 2530.91,2820.8 2529.04,2819.28L2436.43,2744.29C2434.56,2742.77 2431.81,2743.06 2430.3,2744.93L2334.89,2862.74C2333.38,2864.62 2333.66,2867.36 2335.53,2868.88L2428.14,2943.87C2430.01,2945.39 2432.76,2945.1 2434.27,2943.23L2529.68,2825.41Z" style="fill:url(#_Radial3);stroke:black;stroke-width:0.2px;stroke-linecap:round;stroke-linejoin:round;"/>
+                <path d="M2846.65,2862.58C2848.17,2860.71 2847.88,2857.96 2846.01,2856.45L2753.4,2781.45C2751.53,2779.94 2748.78,2780.23 2747.27,2782.1L2651.86,2899.91C2650.35,2901.78 2650.63,2904.53 2652.5,2906.04L2745.11,2981.04C2746.98,2982.55 2749.73,2982.26 2751.24,2980.39L2846.65,2862.58Z" style="fill:url(#_Radial3);stroke:black;stroke-width:0.2px;stroke-linecap:round;stroke-linejoin:round;"/>
                 <g id="Sticker">
-                    <path d="M2525.95,2823.32C2527.37,2821.57 2527.1,2819.01 2525.35,2817.59L2438.85,2747.54C2437.1,2746.13 2434.53,2746.4 2433.12,2748.14L2341.31,2861.51C2339.89,2863.26 2340.16,2865.83 2341.91,2867.24L2428.42,2937.29C2430.16,2938.71 2432.73,2938.44 2434.14,2936.69L2525.95,2823.32Z" style="fill:white;stroke:black;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;"/>
+                    <path d="M2842.92,2860.49C2844.34,2858.74 2844.07,2856.17 2842.32,2854.76L2755.82,2784.71C2754.07,2783.29 2751.5,2783.56 2750.09,2785.31L2658.28,2898.68C2656.87,2900.43 2657.14,2902.99 2658.88,2904.41L2745.39,2974.46C2747.13,2975.87 2749.7,2975.61 2751.11,2973.86L2842.92,2860.49Z" style="fill:white;stroke:black;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;"/>
                 </g>
             </g>
         </g>
@@ -1214,8 +1214,8 @@
         </g>
         <g id="R-.23.6-Screw-Plas2Wood">
             <g id="Assembly-Top72">
-                <circle cx="2167.89" cy="3359.68" r="15.744" style="fill:rgb(114,114,114);fill-opacity:0.752941;stroke:black;stroke-opacity:0.843137;stroke-width:0.53px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"/>
-                <path d="M2167.89,3346L2179.73,3352.84L2179.73,3366.52L2167.89,3373.36L2156.04,3366.52L2156.04,3352.84L2167.89,3346Z" style="fill:rgb(162,162,162);fill-opacity:0.752941;stroke:black;stroke-opacity:0.843137;stroke-width:0.53px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"/>
+                <circle cx="2167.89" cy="3309.17" r="15.744" style="fill:rgb(114,114,114);fill-opacity:0.752941;stroke:black;stroke-opacity:0.843137;stroke-width:0.53px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"/>
+                <path d="M2167.89,3295.49L2179.73,3302.33L2179.73,3316.01L2167.89,3322.85L2156.04,3316.01L2156.04,3302.33L2167.89,3295.49Z" style="fill:rgb(162,162,162);fill-opacity:0.752941;stroke:black;stroke-opacity:0.843137;stroke-width:0.53px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"/>
             </g>
         </g>
         <g id="R-.23.6-Screw-Plas2Wood1">
