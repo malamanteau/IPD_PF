@@ -5,6 +5,7 @@ cd Desktop/Github/IPD_PF
 # ./split PF.svg -a -k rout -k bottom
 ./split PF.svg -k rout
 ./split PF.svg -k bevel
+./split PF.svg -k art -k bevel -k drill
 ./split PF.svg -k rout -k bevel -k drill
 ./split PF.svg -k plastic
 ./split PF.svg -k art
