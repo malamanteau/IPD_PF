@@ -10,6 +10,8 @@ cd Desktop/Github/IPD_PF
 ./split PF.svg -k plastic
 ./split PF.svg -k art
 ./split PF.svg -k metal
+./split PF.svg -k habitrails
+./split PF.svg -k metal -k habitrails
 ./split PF.svg -k sticker
 ./split PF.svg -k assembly
 ./split PF.svg -k top
