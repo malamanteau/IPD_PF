@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="4544px" height="5760px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+<svg width="4544px" height="5760px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.613;">
     <g clip-path="url(#_clip1)">
         <g id="Playfield-Outline-.--Top-Bottom-Sticker-Drill-Rout-Plastic-Bevel-Art-Assembly-Rubber-Todo">
-            <path d="M250.028,382.57L2193.89,382.57L2193.89,4510.83L2133.9,4510.83L2133.9,4408.84L2133.89,4408.84C2133.89,4402.23 2128.51,4396.84 2121.89,4396.84L2091.95,4396.84L2092.01,4221.88L2092,4221.87C2092,4216.92 2087.96,4212.88 2083.01,4212.88C2078.05,4212.88 2074.01,4216.92 2074.01,4221.87L2074.01,4221.88L2074.06,4396.84L2013.9,4396.84C2007.29,4396.84 2001.91,4402.23 2001.91,4408.84L2001.91,4799.99L1329.95,4799.99L1105.57,4532.58L1105.56,4532.54C1101.06,4527.19 1094.21,4524.01 1087.18,4524.01L771.991,4524.01C758.778,4524.01 747.992,4534.79 747.992,4548L747.992,4799.99L551.237,4799.99L375.011,4647.61L375.011,4549.55C375.011,4536.34 364.232,4525.56 351.012,4525.56L250.028,4525.56L250.028,382.57Z" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;stroke-miterlimit:2.613;"/>
+            <path d="M250.028,382.57L2193.89,382.57L2193.89,4510.83L2133.9,4510.83L2133.9,4408.84L2133.89,4408.84C2133.89,4402.23 2128.51,4396.84 2121.89,4396.84L2091.95,4396.84L2092.01,4221.88L2092,4221.87C2092,4216.92 2087.96,4212.88 2083.01,4212.88C2078.05,4212.88 2074.01,4216.92 2074.01,4221.87L2074.01,4221.88L2074.06,4396.84L2013.9,4396.84C2007.29,4396.84 2001.91,4402.23 2001.91,4408.84L2001.91,4799.99L1329.95,4799.99L1105.57,4532.58L1105.56,4532.54C1101.06,4527.19 1094.21,4524.01 1087.18,4524.01L771.991,4524.01C758.778,4524.01 747.992,4534.79 747.992,4548L747.992,4799.99L551.237,4799.99L375.011,4647.61L375.011,4549.55C375.011,4536.34 364.232,4525.56 351.012,4525.56L250.028,4525.56L250.028,382.57Z" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;"/>
         </g>
         <g id="Playfield-Guides-.--Top-Bottom-Sticker-Drill-Rout-Plastic-Bevel-Art-Assembly-Rubber-Todo">
-            <path d="M433.899,4799.99L225.12,4799.99" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;stroke-miterlimit:2.613;"/>
-            <path d="M2210.9,4799.99L2099.49,4799.99" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;stroke-miterlimit:2.613;"/>
-            <path d="M2194.03,4817.86L2194.03,4763.96" style="fill:none;stroke:black;stroke-width:0.74px;"/>
-            <path d="M250.14,4823.45L250.14,4758.68" style="fill:none;stroke:black;stroke-width:0.74px;"/>
+            <path d="M433.899,4799.99L225.12,4799.99" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;"/>
+            <path d="M2210.9,4799.99L2099.49,4799.99" style="fill:none;stroke:rgb(35,31,32);stroke-width:1.11px;"/>
+            <path d="M2194.03,4817.86L2194.03,4763.96" style="fill:none;stroke:black;stroke-width:0.74px;stroke-miterlimit:10;"/>
+            <path d="M250.14,4823.45L250.14,4758.68" style="fill:none;stroke:black;stroke-width:0.74px;stroke-miterlimit:10;"/>
         </g>
         <g id="Eject-Path">
             <g id="Bevel">

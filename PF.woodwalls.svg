@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="4544px" height="5760px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+<svg width="4544px" height="5760px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.613;">
     <g clip-path="url(#_clip1)">
         <g id="Sides">
             <g id="WoodWalls">
-                <rect x="250.032" y="1829.36" width="48" height="2250.15" style="fill:rgb(48,36,31);fill-opacity:0.698039;stroke:black;stroke-opacity:0.843137;stroke-width:0.87px;"/>
-                <rect x="2145.89" y="2008.44" width="48" height="2502.4" style="fill:rgb(48,36,31);fill-opacity:0.698039;stroke:black;stroke-width:0.73px;"/>
+                <rect x="250.032" y="1829.36" width="48" height="2250.15" style="fill:rgb(48,36,31);fill-opacity:0.698039;stroke:black;stroke-opacity:0.843137;stroke-width:0.87px;stroke-miterlimit:10;"/>
+                <rect x="2145.89" y="2008.44" width="48" height="2502.4" style="fill:rgb(48,36,31);fill-opacity:0.698039;stroke:black;stroke-width:0.73px;stroke-miterlimit:10;"/>
             </g>
         </g>
     </g>
