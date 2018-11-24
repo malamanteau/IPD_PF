@@ -20,6 +20,12 @@ cd Desktop/Github/IPD_PF
 ./split PF.svg -i -k sticker
 ./split PF.svg    -k todo
 ./split PF.svg    -k woodwalls
+
+./split SS1.svg -i -k sticker -k art
+./split SS2.svg -i -k sticker -k art
+./split SS3.svg -i -k sticker -k art
+./split SS4.svg -i -k sticker -k art
+
 # ./split PF.svg -a -k rout -k top
 # ./split PF.svg -a -k rout -k bottom
 
@@ -44,3 +50,8 @@ cd Desktop/Github/IPD_PF
 ./dpi PF.sticker.svg
 ./dpi PF.todo.svg
 ./dpi PF.woodwalls.svg
+
+./dpi SS1.sticker.art.svg
+./dpi SS2.sticker.art.svg
+./dpi SS3.sticker.art.svg
+./dpi SS4.sticker.art.svg
